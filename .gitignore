@@ -16,6 +16,8 @@ googlemapskey.txt
 예제코드/
 human_activity/
 model/
+R/
+preview/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
