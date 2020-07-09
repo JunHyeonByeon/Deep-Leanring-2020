@@ -18,6 +18,9 @@ human_activity/
 model/
 R/
 preview/
+handwriting_shape/
+hard_handwriting_shape/
+19447_31436_bundle_archive/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
